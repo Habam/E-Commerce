@@ -21,7 +21,8 @@ User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5)
 Dashboard: https://ga-dev-tools.appspot.com/embed-api/
 ### Analysis of user behavior
 - Help make marketing decisions
-- Recommendation algo
+
+### Recommendation
 
 ### Content experiments
 - A/B test
