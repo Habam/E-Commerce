@@ -4,7 +4,7 @@ This is a quick dump of HowTo
 ## Something we should know
 ### No big data
 100 buildings * 30 stories * 4 households * 4 people = 48000 users * ?%
-###Collect data
+### Collect data
 - User bacis info
 ```
 Request Headers
@@ -16,8 +16,11 @@ User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5)
 ```
 - List of (timestamp, userId, event)
 - Demo: https://ga-dev-tools.appspot.com/enhanced-ecommerce/
+
 ### Demonstration of user behavior
-Dashboard
+Dashboard: https://ga-dev-tools.appspot.com/embed-api/
 ### Analysis of user behavior
-- Help make marketing decisions 
-### Recommendation and more
+- Help make marketing decisions
+- Recommendation algo
+### Content experiments
+- A/B test
