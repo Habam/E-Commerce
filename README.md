@@ -18,7 +18,9 @@ User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5)
 - Demo: https://ga-dev-tools.appspot.com/enhanced-ecommerce/
 
 ### Demonstration of user behavior
-Dashboard: https://ga-dev-tools.appspot.com/embed-api/
+- Real-time flow / sales dashboard
+- Dashboard: https://ga-dev-tools.appspot.com/embed-api/
+
 ### Analysis of user behavior
 - Help make marketing decisions
 
