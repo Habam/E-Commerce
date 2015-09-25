@@ -31,6 +31,8 @@ User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5)
 - List of (timestamp, userId, event)
 - Demo: https://ga-dev-tools.appspot.com/enhanced-ecommerce/
 
+### Marketing
+
 ### Demonstration of user behavior
 - Real-time flow / sales dashboard
 - Dashboard: https://ga-dev-tools.appspot.com/embed-api/
