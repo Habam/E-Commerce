@@ -2,22 +2,23 @@
 This is a quick dump of HowTo 
   
 ## Something we should know
-  #### No big data
-  #### Google analytics do this well
-
-# What we do?
-
-### Scalability
+#### No big data
 - No big data right now
   - 100 buildings * 30 stories * 4 households * 4 people = 48000 users * ?%
+
+#### Google Analytics do this well
+- https://developers.google.com/analytics/
+
+## What can we do?
+### Scalability
 - When business grow up
   - An **expansion as a breathe** structure
 
 ### Embed / Fully built-in
-- Embedded javascript
-- Web developer customized tracing interface
+- Embedded javascript - _by EC_
+- Customized - _by developer_
 
-### Collect data
+### What data to be collected
 - User bacis info
 ```
 Request Headers
