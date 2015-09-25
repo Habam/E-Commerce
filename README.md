@@ -2,8 +2,20 @@
 This is a quick dump of HowTo 
   
 ## Something we should know
-### No big data
-100 buildings * 30 stories * 4 households * 4 people = 48000 users * ?%
+- No big data
+- Google analytics do this well
+- 
+
+### Scalability
+- No big data right now
+  - 100 buildings * 30 stories * 4 households * 4 people = 48000 users * ?%
+- When business grow up
+  - An **expansion as a breathe** structure
+
+### Embed / Fully built-in
+- Embedded javascript
+- Web developer customized tracing interface
+
 ### Collect data
 - User bacis info
 ```
