@@ -2,9 +2,9 @@
 This is a quick dump of HowTo 
   
 ## Something we should know
-- No big data
-- Google analytics do this well
-- 
+#### No big data
+#### Google analytics do this well
+#### 
 
 ### Scalability
 - No big data right now
